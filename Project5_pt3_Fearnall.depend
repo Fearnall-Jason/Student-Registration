@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1635359406 source:c:\users\fearn\onedrive\documents\buffstatecollege\comp\proj5_pt3_fearnall\project5_pt3_fearnall\buffstudentimp.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<limits>
+	<cctype>
+	"buffStudent.h"
+
+1635360274 c:\users\fearn\onedrive\documents\buffstatecollege\comp\proj5_pt3_fearnall\project5_pt3_fearnall\buffstudent.h
+	<iostream>
+	<string>
+
+1635376308 source:d:\proj5_pt3_fearnall\project5_pt3_fearnall\buffstudentimp.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<limits>
+	<cctype>
+	"buffStudent.h"
+
+1635360276 d:\proj5_pt3_fearnall\project5_pt3_fearnall\buffstudent.h
+	<iostream>
+	<string>
+
+1635376416 source:d:\proj5_pt3_fearnall\project5_pt3_fearnall\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<limits>
+	<cctype>
+	<fstream>
+	<string>
+	"buffStudent.h"
+
+1635376308 source:c:\users\fearn\onedrive\documents\buffstatecollege\term 1\proj5_pt3_fearnall\project5_pt3_fearnall\buffstudentimp.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<limits>
+	<cctype>
+	"buffStudent.h"
+
+1635360276 c:\users\fearn\onedrive\documents\buffstatecollege\term 1\proj5_pt3_fearnall\project5_pt3_fearnall\buffstudent.h
+	<iostream>
+	<string>
+
